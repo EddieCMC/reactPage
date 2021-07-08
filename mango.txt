@@ -1,0 +1,3 @@
+mongodb+srv://EddieCMC:a3647831@cluster0.tfzlu.mongodb.net/React?retryWrites=true&w=majority
+
+mongodb+srv://EddieCMC:a3647831@cluster0.tfzlu.mongodb.net/ReactCourse?retryWrites=true&w=majority
