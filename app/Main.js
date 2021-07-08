@@ -18,11 +18,9 @@ import FlashMessages from "./components/FlashMessages"
 import ExampleContext from "./ExampleContext"
 
 function Main() {
-  
-  
-  function ourReducer(){
+  S
 
-  }
+  function ourReducer() {}
 
   const [state, dispatch] = useReducer()
 
